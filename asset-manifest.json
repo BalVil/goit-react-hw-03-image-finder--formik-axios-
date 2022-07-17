@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goit-react-hw-03-image-finder--formik-axios-/static/css/main.fa1b8e99.css",
-    "main.js": "/goit-react-hw-03-image-finder--formik-axios-/static/js/main.4c061fd2.js",
+    "main.js": "/goit-react-hw-03-image-finder--formik-axios-/static/js/main.c10c4dda.js",
     "index.html": "/goit-react-hw-03-image-finder--formik-axios-/index.html",
     "main.fa1b8e99.css.map": "/goit-react-hw-03-image-finder--formik-axios-/static/css/main.fa1b8e99.css.map",
-    "main.4c061fd2.js.map": "/goit-react-hw-03-image-finder--formik-axios-/static/js/main.4c061fd2.js.map"
+    "main.c10c4dda.js.map": "/goit-react-hw-03-image-finder--formik-axios-/static/js/main.c10c4dda.js.map"
   },
   "entrypoints": [
     "static/css/main.fa1b8e99.css",
-    "static/js/main.4c061fd2.js"
+    "static/js/main.c10c4dda.js"
   ]
 }
