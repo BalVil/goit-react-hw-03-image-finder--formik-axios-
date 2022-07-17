@@ -21,9 +21,9 @@ export const Searchbar = ({ onSubmit }) => {
   return (
     <Wrap>
       <Formik initialValues={{ query: '' }} onSubmit={handleSubmit}>
-        {({ isSubmitting, setFieldValue }) => (
+        {({ setFieldValue }) => (
           <FormFormik>
-            <FormBtn type="submit" disabled={isSubmitting}>
+            <FormBtn type="submit">
               <IconBtn />
               <FormLabel />
             </FormBtn>
